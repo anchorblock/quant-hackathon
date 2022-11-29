@@ -1,3 +1,2 @@
 # quant-hackathon
-Data and task for quant hackathon
-
+Start at zipline.ipynb
